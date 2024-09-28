@@ -3,7 +3,7 @@
 The objective of this project is to explore and analyze the Google Play Store apps dataset, which includes information such as category, rating, size, and more. Additionally, a dataset containing customer reviews of the Android apps is provided. The goal is to discover key factors that contribute to app engagement and overall success.
 The Google Play Store EDA project aims to explore and analyze the extensive dataset of app listings available on the platform. By conducting thorough analysis, we seek to address several key questions and challenges:
 
-App Categories and Popularity:
+**App Categories and Popularity:**
 
 What are the most popular app categories on the Google Play Store?
 How does the popularity of different categories vary?
